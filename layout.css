@@ -13,12 +13,12 @@ img{
 .column-1{
 	width: 100vw;
 	height: calc(100vh / 3);
-	margin: auto
-	text-align: center;
 	max-height: 100%;
 	max-width: 100%;
 	justify-content: center;
-	display: flex
+	display: flex;
+	text-align: center;
+	margin: auto
 }
 .column-2{
 	width: 100vw;
